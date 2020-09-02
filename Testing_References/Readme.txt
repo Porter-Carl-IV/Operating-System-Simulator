@@ -1,0 +1,4 @@
+-All tests succeeded
+-Implemented memory management, working
+-Didn't include tests of OS segmentation faults but they work. Correctly identitifies segfaults and clears the memory, setting process to exit state.
+-As far as I can tell interrupts come back at the correct timings

@@ -1,0 +1,553 @@
+Time:   0.000000, System start
+Time:   0.000630, Begin PCB Creation
+Time:   0.002858, All processes initialized in New state
+Time:   0.003436, All processes now set in Ready state
+Time:   0.004072, OS: SRTF-P Strategy selects process 2 with time: 2450 mSec
+Time:   0.004681, OS: Process 2 set in Running state
+Time:   0.005297, Process 2, Memory management allocation action start ( 12/251/150 )
+Time:   0.005897, Process 2, Memory management allocation action end
+Time:   0.006472, Process 2, hard drive input start
+Time:   0.007181, OS: Process 2 set in Blocked state
+
+Time:   0.008170, OS: SRTF-P Strategy selects process 4 with time: 4510 mSec
+Time:   0.008725, OS: Process 4 set in Running state
+Time:   0.009261, Process 4, Run operation start
+Time:   0.039787, OS: Process 4 quantum time out
+Time:   0.039985, OS: Process 4 set in Ready state
+
+Time:   0.041202, OS: SRTF-P Strategy selects process 4 with time: 4480 mSec
+Time:   0.041810, OS: Process 4 set in Running state
+Time:   0.042408, Process 4, Run operation start
+Time:   0.073009, OS: Process 4 quantum time out
+Time:   0.073350, OS: Process 4 set in Ready state
+
+Time:   0.073928, OS: SRTF-P Strategy selects process 4 with time: 4450 mSec
+Time:   0.074418, OS: Process 4 set in Running state
+Time:   0.074957, Process 4, Run operation start
+Time:   0.105472, OS: Process 4 quantum time out
+Time:   0.105616, OS: Process 4 set in Ready state
+
+Time:   0.106913, OS: SRTF-P Strategy selects process 4 with time: 4420 mSec
+Time:   0.111773, OS: Process 4 set in Running state
+Time:   0.112269, Process 4, Run operation start
+Time:   0.157960, OS: Process 4 quantum time out
+Time:   0.158501, OS: Process 4 set in Ready state
+
+Time:   0.161926, OS: SRTF-P Strategy selects process 4 with time: 4390 mSec
+Time:   0.162454, OS: Process 4 set in Running state
+Time:   0.162983, Process 4, Run operation start
+Time:   0.173504, Process 4, Run operation end
+Time:   0.174049, Process 4, Run operation start
+Time:   0.194575, OS: Process 4 quantum time out
+Time:   0.194726, OS: Process 4 set in Ready state
+
+Time:   0.208072, OS: SRTF-P Strategy selects process 4 with time: 4360 mSec
+Time:   0.211753, OS: Process 4 set in Running state
+Time:   0.224541, Process 4, Run operation start
+Time:   0.255219, OS: Process 4 quantum time out
+Time:   0.255805, OS: Process 4 set in Ready state
+
+Time:   0.261589, OS: SRTF-P Strategy selects process 4 with time: 4330 mSec
+Time:   0.262202, OS: Process 4 set in Running state
+Time:   0.262779, Process 4, Run operation start
+Time:   0.293297, OS: Process 4 quantum time out
+Time:   0.293431, OS: Process 4 set in Ready state
+
+Time:   0.294077, OS: SRTF-P Strategy selects process 4 with time: 4300 mSec
+Time:   0.294693, OS: Process 4 set in Running state
+Time:   0.298998, Process 4, Run operation start
+Time:   0.323624, Process 4, Run operation end
+Time:   0.323826, Process 4, printer output start
+Time:   0.330497, OS: Process 4 set in Blocked state
+
+Time:   0.343863, OS: SRTF-P Strategy selects process 5 with time: 4520 mSec
+Time:   0.347535, OS: Process 5 set in Running state
+Time:   0.362901, Process 5, hard drive output start
+Time:   0.363626, OS: Process 5 set in Blocked state
+
+Time:   0.379957, OS: SRTF-P Strategy selects process 1 with time: 7910 mSec
+Time:   0.395714, OS: Process 1 set in Running state
+Time:   0.396204, Process 1, Run operation start
+Time:   0.441952, OS: Process 1 quantum time out
+Time:   0.442072, OS: Process 1 set in Ready state
+
+Time:   0.451974, OS: SRTF-P Strategy selects process 1 with time: 7880 mSec
+Time:   0.456302, OS: Process 1 set in Running state
+Time:   0.465253, Process 1, Run operation start
+Time:   0.495945, OS: Process 1 quantum time out
+Time:   0.496302, OS: Process 1 set in Ready state
+
+Time:   0.497362, OS: SRTF-P Strategy selects process 1 with time: 7850 mSec
+Time:   0.497896, OS: Process 1 set in Running state
+Time:   0.498560, Process 1, Run operation start
+Time:   0.509104, Process 1, Run operation end
+Time:   0.509246, Process 1, Memory management allocation action start ( 12/100/150 )
+Time:   0.509826, Process 1, Memory management allocation action end
+Time:   0.510384, Process 1, Memory management access action start ( 12/100/150 )
+Time:   0.510916, Process 1, Memory management access action end
+Time:   0.511441, Process 1, Run operation start
+Time:   0.531930, OS: Process 1 quantum time out
+Time:   0.532243, OS: Process 1 set in Ready state
+
+Time:   0.533464, OS: SRTF-P Strategy selects process 1 with time: 7820 mSec
+Time:   0.536370, OS: Process 1 set in Running state
+Time:   0.536884, Process 1, Run operation start
+Time:   0.557382, Process 1, Run operation end
+Time:   0.557563, Process 1, hard drive input start
+Time:   0.558398, OS: Process 1 set in Blocked state
+
+Time:   0.564190, OS: SRTF-P Strategy selects process 3 with time: 8270 mSec
+Time:   0.580033, OS: Process 3 set in Running state
+Time:   0.580561, Process 3, Run operation start
+Time:   0.626472, OS: Process 3 quantum time out
+Time:   0.626972, OS: Process 3 set in Ready state
+
+Time:   0.628156, OS: SRTF-P Strategy selects process 3 with time: 8240 mSec
+Time:   0.628674, OS: Process 3 set in Running state
+Time:   0.629194, Process 3, Run operation start
+Time:   0.659719, OS: Process 3 quantum time out
+Time:   0.660159, OS: Process 3 set in Ready state
+
+Time:   0.661277, OS: SRTF-P Strategy selects process 3 with time: 8210 mSec
+Time:   0.661797, OS: Process 3 set in Running state
+Time:   0.662316, Process 3, Run operation start
+Time:   0.672838, Process 3, Run operation end
+Time:   0.674754, Process 3, Memory management allocation action start ( 9/0/25 )
+Time:   0.675344, Process 3, Memory management allocation action end
+Time:   0.690560, Process 3, printer output start
+Time:   0.691387, OS: Process 3 set in Blocked state
+
+Time:   0.707234, OS: CPU Idle
+Time:   0.913363, OS: Interrupt, Process 2
+Time:   0.913637, Process 2, hard drive input end
+Time:   0.914142, OS: Process 2 set in Ready state
+
+Time:   0.915042, OS: Interrupt, Process 5
+Time:   0.915573, Process 5, hard drive output end
+Time:   0.915573, OS: Process 5 set in Ready state
+
+Time:   0.919546, OS: SRTF-P Strategy selects process 2 with time: 1550 mSec
+Time:   0.920020, OS: Process 2 set in Running state
+Time:   0.920551, Process 2, Memory management access action start ( 12/251/150 )
+Time:   0.920992, Process 2, Memory management access action end
+Time:   0.921480, OS: Interrupt, Process 1
+Time:   0.921926, Process 1, hard drive input end
+Time:   0.922417, OS: Process 1 set in Ready state
+
+Time:   0.923341, Process 2, Memory management access action start ( 12/251/150 )
+Time:   0.923809, Process 2, Memory management access action end
+Time:   0.924279, Process 2, Run operation start
+Time:   0.954756, OS: Process 2 quantum time out
+Time:   0.954872, OS: Process 2 set in Ready state
+
+Time:   0.955825, OS: SRTF-P Strategy selects process 2 with time: 1520 mSec
+Time:   0.956347, OS: Process 2 set in Running state
+Time:   0.956818, Process 2, Run operation start
+Time:   0.987297, OS: Process 2 quantum time out
+Time:   0.987649, OS: Process 2 set in Ready state
+
+Time:   0.994242, OS: SRTF-P Strategy selects process 2 with time: 1490 mSec
+Time:   0.994740, OS: Process 2 set in Running state
+Time:   0.995218, Process 2, Run operation start
+Time:   1.015701, Process 2, Run operation end
+Time:   1.016160, Process 2, Memory management allocation action start ( 10/50/49 )
+Time:   1.016768, Process 2, Memory management allocation action end
+Time:   1.019610, Process 2, hard drive input start
+Time:   1.020300, OS: Process 2 set in Blocked state
+
+Time:   1.021157, OS: SRTF-P Strategy selects process 5 with time: 3980 mSec
+Time:   1.021656, OS: Process 5 set in Running state
+Time:   1.022167, Process 5, printer output start
+Time:   1.022795, OS: Process 5 set in Blocked state
+
+Time:   1.023615, OS: SRTF-P Strategy selects process 1 with time: 7440 mSec
+Time:   1.024089, OS: Process 1 set in Running state
+Time:   1.024544, Process 1, hard drive output start
+Time:   1.025140, OS: Process 1 set in Blocked state
+
+Time:   1.026001, OS: CPU Idle
+Time:   1.036496, OS: Interrupt, Process 4
+Time:   1.039795, Process 4, printer output end
+Time:   1.040447, OS: Process 4 set in Ready state
+
+Time:   1.042632, OS: SRTF-P Strategy selects process 4 with time: 3590 mSec
+Time:   1.043161, OS: Process 4 set in Running state
+Time:   1.043693, Process 4, hard drive input start
+Time:   1.044408, OS: Process 4 set in Blocked state
+
+Time:   1.045251, OS: CPU Idle
+Time:   1.385811, OS: Interrupt, Process 2
+Time:   1.386099, Process 2, hard drive input end
+Time:   1.386613, OS: Process 2 set in Ready state
+
+Time:   1.387545, OS: SRTF-P Strategy selects process 2 with time: 1110 mSec
+Time:   1.388020, OS: Process 2 set in Running state
+Time:   1.388491, Process 2, Memory management access action start ( 10/50/20 )
+Time:   1.388975, Process 2, Memory management access action end
+Time:   1.389446, Process 2, keyboard input start
+Time:   1.390075, OS: Process 2 set in Blocked state
+
+Time:   1.390815, OS: CPU Idle
+Time:   1.801331, OS: Interrupt, Process 3
+Time:   1.801629, Process 3, printer output end
+Time:   1.802167, OS: Process 3 set in Ready state
+
+Time:   1.803124, OS: SRTF-P Strategy selects process 3 with time: 7100 mSec
+Time:   1.803616, OS: Process 3 set in Running state
+Time:   1.804108, Process 3, Memory management access action start ( 9/0/10 )
+Time:   1.804614, Process 3, Memory management access action end
+Time:   1.805101, Process 3, hard drive output start
+Time:   1.805695, OS: Process 3 set in Blocked state
+
+Time:   1.806497, OS: Interrupt, Process 1
+Time:   1.806979, Process 1, hard drive output end
+Time:   1.807464, OS: Process 1 set in Ready state
+
+Time:   1.808409, OS: SRTF-P Strategy selects process 1 with time: 6660 mSec
+Time:   1.808890, OS: Process 1 set in Running state
+Time:   1.809373, Process 1, hard drive output start
+Time:   1.809984, OS: Process 1 set in Blocked state
+
+Time:   1.810915, OS: CPU Idle
+Time:   1.831321, OS: Interrupt, Process 4
+Time:   1.831414, Process 4, hard drive input end
+Time:   1.831948, OS: Process 4 set in Ready state
+
+Time:   1.833045, OS: SRTF-P Strategy selects process 4 with time: 2810 mSec
+Time:   1.836297, OS: Process 4 set in Running state
+Time:   1.836849, Process 4, hard drive output start
+Time:   1.837579, OS: Process 4 set in Blocked state
+
+Time:   1.838404, OS: CPU Idle
+Time:   2.028940, OS: Interrupt, Process 5
+Time:   2.029213, Process 5, printer output end
+Time:   2.029753, OS: Process 5 set in Ready state
+
+Time:   2.030648, OS: SRTF-P Strategy selects process 5 with time: 2980 mSec
+Time:   2.031098, OS: Process 5 set in Running state
+Time:   2.031567, Process 5, hard drive input start
+Time:   2.032210, OS: Process 5 set in Blocked state
+
+Time:   2.033042, OS: CPU Idle
+Time:   2.316169, OS: Interrupt, Process 5
+Time:   2.316456, Process 5, hard drive input end
+Time:   2.316982, OS: Process 5 set in Ready state
+
+Time:   2.317890, OS: SRTF-P Strategy selects process 5 with time: 2700 mSec
+Time:   2.318354, OS: Process 5 set in Running state
+Time:   2.318822, Process 5, printer output start
+Time:   2.319466, OS: Process 5 set in Blocked state
+
+Time:   2.320181, OS: Interrupt, Process 4
+Time:   2.320641, Process 4, hard drive output end
+Time:   2.321100, OS: Process 4 set in Ready state
+
+Time:   2.321992, OS: SRTF-P Strategy selects process 4 with time: 2330 mSec
+Time:   2.322451, OS: Process 4 set in Running state
+Time:   2.322910, Process 4, keyboard input start
+Time:   2.323523, OS: Process 4 set in Blocked state
+
+Time:   2.324351, OS: CPU Idle
+Time:   2.394874, OS: Interrupt, Process 2
+Time:   2.395226, Process 2, keyboard input end
+Time:   2.395845, OS: Process 2 set in Ready state
+
+Time:   2.396891, OS: SRTF-P Strategy selects process 2 with time: 110 mSec
+Time:   2.397414, OS: Process 2 set in Running state
+Time:   2.397933, Process 2, Run operation start
+Time:   2.428453, OS: Process 2 quantum time out
+Time:   2.428801, OS: Process 2 set in Ready state
+
+Time:   2.429930, OS: SRTF-P Strategy selects process 2 with time: 80 mSec
+Time:   2.430454, OS: Process 2 set in Running state
+Time:   2.430974, Process 2, Run operation start
+Time:   2.461497, OS: Process 2 quantum time out
+Time:   2.461601, OS: Process 2 set in Ready state
+
+Time:   2.470593, OS: SRTF-P Strategy selects process 2 with time: 50 mSec
+Time:   2.474822, OS: Process 2 set in Running state
+Time:   2.490078, Process 2, Run operation start
+Time:   2.500608, OS: Interrupt, Process 1
+Time:   2.506465, OS: Process 2 set in Ready state
+Time:   2.506995, Process 1, hard drive output end
+Time:   2.516232, OS: Process 1 set in Ready state
+
+Time:   2.519951, OS: Interrupt, Process 5
+Time:   2.520463, Process 5, printer output end
+Time:   2.520463, OS: Process 5 set in Ready state
+
+Time:   2.521905, OS: SRTF-P Strategy selects process 2 with time: 40 mSec
+Time:   2.522412, OS: Process 2 set in Running state
+Time:   2.522892, Process 2, Run operation start
+Time:   2.553382, OS: Process 2 quantum time out
+Time:   2.553525, OS: Process 2 set in Ready state
+
+Time:   2.554530, OS: SRTF-P Strategy selects process 2 with time: 10 mSec
+Time:   2.555033, OS: Process 2 set in Running state
+Time:   2.555529, Process 2, Run operation start
+Time:   2.566019, Process 2, Run operation end
+Time:   2.566293, OS: Process 2 set in Exit state
+
+Time:   2.581195, OS: SRTF-P Strategy selects process 5 with time: 2520 mSec
+Time:   2.597224, OS: Process 5 set in Running state
+Time:   2.597747, Process 5, hard drive input start
+Time:   2.613588, OS: Process 5 set in Blocked state
+
+Time:   2.626718, OS: SRTF-P Strategy selects process 1 with time: 6000 mSec
+Time:   2.630445, OS: Process 1 set in Running state
+Time:   2.645943, Process 1, printer output start
+Time:   2.646683, OS: Process 1 set in Blocked state
+
+Time:   2.663399, OS: CPU Idle
+Time:   2.706258, OS: Interrupt, Process 3
+Time:   2.706649, Process 3, hard drive output end
+Time:   2.711347, OS: Process 3 set in Ready state
+
+Time:   2.712336, OS: SRTF-P Strategy selects process 3 with time: 6200 mSec
+Time:   2.712886, OS: Process 3 set in Running state
+Time:   2.713384, Process 3, printer output start
+Time:   2.714049, OS: Process 3 set in Blocked state
+
+Time:   2.714812, OS: CPU Idle
+Time:   2.915324, OS: Interrupt, Process 5
+Time:   2.915615, Process 5, hard drive input end
+Time:   2.916134, OS: Process 5 set in Ready state
+
+Time:   2.917055, OS: SRTF-P Strategy selects process 5 with time: 2220 mSec
+Time:   2.917541, OS: Process 5 set in Running state
+Time:   2.917998, Process 5, keyboard input start
+Time:   2.918600, OS: Process 5 set in Blocked state
+
+Time:   2.919357, OS: CPU Idle
+Time:   3.199839, OS: Interrupt, Process 5
+Time:   3.200122, Process 5, keyboard input end
+Time:   3.200631, OS: Process 5 set in Ready state
+
+Time:   3.201513, OS: SRTF-P Strategy selects process 5 with time: 1940 mSec
+Time:   3.201963, OS: Process 5 set in Running state
+Time:   3.202407, Process 5, printer output start
+Time:   3.202996, OS: Process 5 set in Blocked state
+
+Time:   3.203758, OS: CPU Idle
+Time:   3.324237, OS: Interrupt, Process 4
+Time:   3.324538, Process 4, keyboard input end
+Time:   3.325058, OS: Process 4 set in Ready state
+
+Time:   3.325969, OS: SRTF-P Strategy selects process 4 with time: 1330 mSec
+Time:   3.326454, OS: Process 4 set in Running state
+Time:   3.327054, Process 4, Run operation start
+Time:   3.357533, OS: Process 4 quantum time out
+Time:   3.357897, OS: Process 4 set in Ready state
+
+Time:   3.360832, OS: SRTF-P Strategy selects process 4 with time: 1300 mSec
+Time:   3.361303, OS: Process 4 set in Running state
+Time:   3.361775, Process 4, Run operation start
+Time:   3.392249, OS: Process 4 quantum time out
+Time:   3.392644, OS: Process 4 set in Ready state
+
+Time:   3.394591, OS: SRTF-P Strategy selects process 4 with time: 1270 mSec
+Time:   3.395103, OS: Process 4 set in Running state
+Time:   3.395610, Process 4, Run operation start
+Time:   3.426131, OS: Process 4 quantum time out
+Time:   3.426524, OS: Process 4 set in Ready state
+
+Time:   3.427930, OS: SRTF-P Strategy selects process 4 with time: 1240 mSec
+Time:   3.428438, OS: Process 4 set in Running state
+Time:   3.428948, Process 4, Run operation start
+Time:   3.449465, OS: Interrupt, Process 1
+Time:   3.449645, OS: Process 4 set in Ready state
+Time:   3.457947, Process 1, printer output end
+Time:   3.462523, OS: Process 1 set in Ready state
+
+Time:   3.475977, OS: SRTF-P Strategy selects process 4 with time: 1220 mSec
+Time:   3.476499, OS: Process 4 set in Running state
+Time:   3.476996, Process 4, Run operation start
+Time:   3.497489, Process 4, Run operation end
+Time:   3.497608, Process 4, hard drive output start
+Time:   3.498361, OS: Process 4 set in Blocked state
+
+Time:   3.523745, OS: SRTF-P Strategy selects process 1 with time: 5200 mSec
+Time:   3.524306, OS: Process 1 set in Running state
+Time:   3.524837, Process 1, keyboard input start
+Time:   3.525522, OS: Process 1 set in Blocked state
+
+Time:   3.526353, OS: CPU Idle
+Time:   3.806892, OS: Interrupt, Process 4
+Time:   3.807186, Process 4, hard drive output end
+Time:   3.807704, OS: Process 4 set in Ready state
+
+Time:   3.808579, OS: SRTF-P Strategy selects process 4 with time: 900 mSec
+Time:   3.809039, OS: Process 4 set in Running state
+Time:   3.809511, Process 4, printer output start
+Time:   3.810149, OS: Process 4 set in Blocked state
+
+Time:   3.810909, OS: CPU Idle
+Time:   3.821374, OS: Interrupt, Process 3
+Time:   3.821446, Process 3, printer output end
+Time:   3.821896, OS: Process 3 set in Ready state
+
+Time:   3.822780, OS: SRTF-P Strategy selects process 3 with time: 5100 mSec
+Time:   3.823237, OS: Process 3 set in Running state
+Time:   3.823689, Process 3, Run operation start
+Time:   3.854146, OS: Process 3 quantum time out
+Time:   3.854270, OS: Process 3 set in Ready state
+
+Time:   3.855212, OS: SRTF-P Strategy selects process 3 with time: 5070 mSec
+Time:   3.855682, OS: Process 3 set in Running state
+Time:   3.856144, Process 3, Run operation start
+Time:   3.886606, OS: Process 3 quantum time out
+Time:   3.886929, OS: Process 3 set in Ready state
+
+Time:   3.887898, OS: SRTF-P Strategy selects process 3 with time: 5040 mSec
+Time:   3.888364, OS: Process 3 set in Running state
+Time:   3.888843, Process 3, Run operation start
+Time:   3.919316, OS: Process 3 quantum time out
+Time:   3.919451, OS: Process 3 set in Ready state
+
+Time:   3.931697, OS: SRTF-P Strategy selects process 3 with time: 5010 mSec
+Time:   3.949286, OS: Process 3 set in Running state
+Time:   3.950275, Process 3, Run operation start
+Time:   3.980976, Process 3, Run operation end
+Time:   3.981069, Process 3, Run operation start
+Time:   3.981689, OS: Process 3 quantum time out
+Time:   3.982207, OS: Process 3 set in Ready state
+
+Time:   3.989078, OS: SRTF-P Strategy selects process 3 with time: 4980 mSec
+Time:   3.989674, OS: Process 3 set in Running state
+Time:   3.989746, Process 3, Run operation start
+Time:   4.013013, OS: Interrupt, Process 4
+Time:   4.021394, OS: Process 3 set in Ready state
+Time:   4.022091, Process 4, printer output end
+Time:   4.031545, OS: Process 4 set in Ready state
+
+Time:   4.032254, OS: SRTF-P Strategy selects process 4 with time: 720 mSec
+Time:   4.032973, OS: Process 4 set in Running state
+Time:   4.033527, Process 4, hard drive input start
+Time:   4.042008, OS: Process 4 set in Blocked state
+
+Time:   4.047584, OS: SRTF-P Strategy selects process 3 with time: 4970 mSec
+Time:   4.047741, OS: Process 3 set in Running state
+Time:   4.048279, Process 3, Run operation start
+Time:   4.094176, OS: Process 3 quantum time out
+Time:   4.094612, OS: Process 3 set in Ready state
+
+Time:   4.096479, OS: SRTF-P Strategy selects process 3 with time: 4940 mSec
+Time:   4.096985, OS: Process 3 set in Running state
+Time:   4.097511, Process 3, Run operation start
+Time:   4.128030, OS: Process 3 quantum time out
+Time:   4.128465, OS: Process 3 set in Ready state
+
+Time:   4.129754, OS: SRTF-P Strategy selects process 3 with time: 4910 mSec
+Time:   4.130387, OS: Process 3 set in Running state
+Time:   4.131013, Process 3, Run operation start
+Time:   4.141632, Process 3, Run operation end
+Time:   4.141764, Process 3, keyboard input start
+Time:   4.142573, OS: Process 3 set in Blocked state
+
+Time:   4.143443, OS: CPU Idle
+Time:   4.203999, OS: Interrupt, Process 5
+Time:   4.204278, Process 5, printer output end
+Time:   4.204797, OS: Process 5 set in Ready state
+
+Time:   4.205694, OS: SRTF-P Strategy selects process 5 with time: 940 mSec
+Time:   4.206149, OS: Process 5 set in Running state
+Time:   4.206605, Process 5, hard drive output start
+Time:   4.207227, OS: Process 5 set in Blocked state
+
+Time:   4.207929, OS: CPU Idle
+Time:   4.628420, OS: Interrupt, Process 5
+Time:   4.628668, Process 5, hard drive output end
+Time:   4.629152, OS: Process 5 set in Ready state
+
+Time:   4.630015, OS: SRTF-P Strategy selects process 5 with time: 520 mSec
+Time:   4.630473, OS: Process 5 set in Running state
+Time:   4.630915, Process 5, hard drive input start
+Time:   4.631505, OS: Process 5 set in Blocked state
+
+Time:   4.631922, OS: CPU Idle
+Time:   4.762440, OS: Interrupt, Process 4
+Time:   4.762696, Process 4, hard drive input end
+Time:   4.763183, OS: Process 4 set in Ready state
+
+Time:   4.764079, OS: SRTF-P Strategy selects process 4 with time: 0 mSec
+Time:   4.764541, OS: Process 4 set in Running state
+Time:   4.765003, OS: Process 4 set in Exit state
+
+Time:   4.765887, OS: CPU Idle
+Time:   5.056432, OS: Interrupt, Process 5
+Time:   5.056708, Process 5, hard drive input end
+Time:   5.057195, OS: Process 5 set in Ready state
+
+Time:   5.058117, OS: SRTF-P Strategy selects process 5 with time: 100 mSec
+Time:   5.058584, OS: Process 5 set in Running state
+Time:   5.059053, Process 5, hard drive output start
+Time:   5.059642, OS: Process 5 set in Blocked state
+
+Time:   5.060437, OS: CPU Idle
+Time:   5.160928, OS: Interrupt, Process 5
+Time:   5.161202, Process 5, hard drive output end
+Time:   5.161709, OS: Process 5 set in Ready state
+
+Time:   5.162603, OS: SRTF-P Strategy selects process 5 with time: 0 mSec
+Time:   5.163067, OS: Process 5 set in Running state
+Time:   5.163531, OS: Process 5 set in Exit state
+
+Time:   5.164418, OS: CPU Idle
+Time:   5.734896, OS: Interrupt, Process 1
+Time:   5.735170, Process 1, keyboard input end
+Time:   5.735697, OS: Process 1 set in Ready state
+
+Time:   5.736639, OS: SRTF-P Strategy selects process 1 with time: 3000 mSec
+Time:   5.737119, OS: Process 1 set in Running state
+Time:   5.737565, Process 1, keyboard input start
+Time:   5.738140, OS: Process 1 set in Blocked state
+
+Time:   5.738530, OS: CPU Idle
+Time:   6.149013, OS: Interrupt, Process 3
+Time:   6.149286, Process 3, keyboard input end
+Time:   6.149941, OS: Process 3 set in Ready state
+
+Time:   6.150901, OS: SRTF-P Strategy selects process 3 with time: 2900 mSec
+Time:   6.153999, OS: Process 3 set in Running state
+Time:   6.154428, Process 3, keyboard input start
+Time:   6.154982, OS: Process 3 set in Blocked state
+
+Time:   6.155734, OS: CPU Idle
+Time:   7.746277, OS: Interrupt, Process 1
+Time:   7.746556, Process 1, keyboard input end
+Time:   7.747093, OS: Process 1 set in Ready state
+
+Time:   7.748051, OS: SRTF-P Strategy selects process 1 with time: 1000 mSec
+Time:   7.748545, OS: Process 1 set in Running state
+Time:   7.749035, Process 1, keyboard input start
+Time:   7.749626, OS: Process 1 set in Blocked state
+
+Time:   7.750462, OS: CPU Idle
+Time:   8.160985, OS: Interrupt, Process 3
+Time:   8.161261, Process 3, keyboard input end
+Time:   8.161797, OS: Process 3 set in Ready state
+
+Time:   8.162738, OS: SRTF-P Strategy selects process 3 with time: 900 mSec
+Time:   8.163213, OS: Process 3 set in Running state
+Time:   8.163668, Process 3, hard drive input start
+Time:   8.164242, OS: Process 3 set in Blocked state
+
+Time:   8.165076, OS: CPU Idle
+Time:   8.749690, OS: Interrupt, Process 1
+Time:   8.749976, Process 1, keyboard input end
+Time:   8.750568, OS: Process 1 set in Ready state
+
+Time:   8.751560, OS: SRTF-P Strategy selects process 1 with time: 0 mSec
+Time:   8.752130, OS: Process 1 set in Running state
+Time:   8.752604, OS: Process 1 set in Exit state
+
+Time:   8.753528, OS: CPU Idle
+Time:   9.074037, OS: Interrupt, Process 3
+Time:   9.074308, Process 3, hard drive input end
+Time:   9.074909, OS: Process 3 set in Ready state
+
+Time:   9.075618, OS: SRTF-P Strategy selects process 3 with time: 0 mSec
+Time:   9.076537, OS: Process 3 set in Running state
+Time:   9.077126, OS: Process 3 set in Exit state
+
+Time:   9.078445, System stop

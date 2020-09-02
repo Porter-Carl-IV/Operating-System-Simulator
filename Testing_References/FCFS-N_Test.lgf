@@ -1,0 +1,129 @@
+Time:   0.000000, System start
+Time:   0.000284, Begin PCB Creation
+Time:   0.000537, All processes initialized in New state
+Time:   0.000706, All processes now set in Ready state
+Time:   0.000706, OS: FCFS-N Strategy selects process 1 with time: 10130 mSec
+Time:   0.000976, OS: Process 1 set in Running state
+Time:   0.001057: Process 1, Run operation start
+Time:   0.071107: Process 1, Run operation end
+Time:   0.071498, Process 1, keyboard input start
+Time:   2.271866, Process 1, keyboard input end
+Time:   2.272215: Process 1, Run operation start
+Time:   2.292371: Process 1, Run operation end
+Time:   2.292473: Process 1, Run operation start
+Time:   2.332567: Process 1, Run operation end
+Time:   2.332826, Process 1, hard drive input start
+Time:   2.693058, Process 1, hard drive input end
+Time:   2.693376, Process 1, hard drive output start
+Time:   3.473600, Process 1, hard drive output end
+Time:   3.473913, Process 1, hard drive output start
+Time:   4.134199, Process 1, hard drive output end
+Time:   4.134582, Process 1, printer output start
+Time:   4.934799, Process 1, printer output end
+Time:   4.935121, Process 1, keyboard input start
+Time:   7.135423, Process 1, keyboard input end
+Time:   7.135779, Process 1, keyboard input start
+Time:   9.136087, Process 1, keyboard input end
+Time:   9.136425, Process 1, keyboard input start
+Time:  10.136735, Process 1, keyboard input end
+Time:  10.137057, OS: Process 1 set in Exit state
+
+Time:  10.137057, OS: FCFS-N Strategy selects process 2 with time: 4920 mSec
+Time:  10.137346, OS: Process 2 set in Running state
+Time:  10.137905: Process 2, Run operation start
+Time:  10.198384: Process 2, Run operation end
+Time:  10.198809, Process 2, hard drive input start
+Time:  11.099569, Process 2, hard drive input end
+Time:  11.099930, Process 2, monitor output start
+Time:  11.380592, Process 2, monitor output end
+Time:  11.380962: Process 2, Run operation start
+Time:  11.431632: Process 2, Run operation end
+Time:  11.432028: Process 2, Run operation start
+Time:  11.512625: Process 2, Run operation end
+Time:  11.513064, Process 2, hard drive input start
+Time:  12.293833, Process 2, hard drive input end
+Time:  12.294223, Process 2, hard drive input start
+Time:  12.654991, Process 2, hard drive input end
+Time:  12.655351, Process 2, printer output start
+Time:  13.956078, Process 2, printer output end
+Time:  13.956429, Process 2, keyboard input start
+Time:  14.957170, Process 2, keyboard input end
+Time:  14.957521: Process 2, Run operation start
+Time:  15.068115: Process 2, Run operation end
+Time:  15.068467, OS: Process 2 set in Exit state
+
+Time:  15.068467, OS: FCFS-N Strategy selects process 3 with time: 9490 mSec
+Time:  15.070259, OS: Process 3 set in Running state
+Time:  15.070805: Process 3, Run operation start
+Time:  15.141328: Process 3, Run operation end
+Time:  15.141742, Process 3, printer output start
+Time:  15.942544, Process 3, printer output end
+Time:  15.942902, Process 3, printer output start
+Time:  17.043642, Process 3, printer output end
+Time:  17.043995, Process 3, hard drive input start
+Time:  17.464629, Process 3, hard drive input end
+Time:  17.464988, Process 3, hard drive output start
+Time:  18.365742, Process 3, hard drive output end
+Time:  18.366118, Process 3, printer output start
+Time:  19.466863, Process 3, printer output end
+Time:  19.467347: Process 3, Run operation start
+Time:  19.588081: Process 3, Run operation end
+Time:  19.588496: Process 3, Run operation start
+Time:  19.669125: Process 3, Run operation end
+Time:  19.669516, Process 3, keyboard input start
+Time:  21.670328, Process 3, keyboard input end
+Time:  21.670700, Process 3, keyboard input start
+Time:  23.671406, Process 3, keyboard input end
+Time:  23.671763, Process 3, hard drive input start
+Time:  24.572489, Process 3, hard drive input end
+Time:  24.572852, OS: Process 3 set in Exit state
+
+Time:  24.572852, OS: FCFS-N Strategy selects process 4 with time: 4510 mSec
+Time:  24.574566, OS: Process 4 set in Running state
+Time:  24.575150: Process 4, Run operation start
+Time:  24.705749: Process 4, Run operation end
+Time:  24.706173: Process 4, Run operation start
+Time:  24.796843: Process 4, Run operation end
+Time:  24.797239, Process 4, printer output start
+Time:  25.498067, Process 4, printer output end
+Time:  25.498424, Process 4, hard drive input start
+Time:  26.279191, Process 4, hard drive input end
+Time:  26.279559, Process 4, hard drive output start
+Time:  26.760255, Process 4, hard drive output end
+Time:  26.760609, Process 4, keyboard input start
+Time:  27.761315, Process 4, keyboard input end
+Time:  27.761687: Process 4, Run operation start
+Time:  27.892259: Process 4, Run operation end
+Time:  27.892674, Process 4, hard drive output start
+Time:  28.193407, Process 4, hard drive output end
+Time:  28.193778, Process 4, printer output start
+Time:  28.374504, Process 4, printer output end
+Time:  28.374907, Process 4, hard drive input start
+Time:  29.095561, Process 4, hard drive input end
+Time:  29.095928, OS: Process 4 set in Exit state
+
+Time:  29.095928, OS: FCFS-N Strategy selects process 5 with time: 4520 mSec
+Time:  29.097518, OS: Process 5 set in Running state
+Time:  29.098089, Process 5, hard drive output start
+Time:  29.638770, Process 5, hard drive output end
+Time:  29.639135, Process 5, printer output start
+Time:  30.639892, Process 5, printer output end
+Time:  30.640248, Process 5, hard drive input start
+Time:  30.920969, Process 5, hard drive input end
+Time:  30.921330, Process 5, printer output start
+Time:  31.102077, Process 5, printer output end
+Time:  31.102473, Process 5, hard drive input start
+Time:  31.403177, Process 5, hard drive input end
+Time:  31.403561, Process 5, keyboard input start
+Time:  31.684294, Process 5, keyboard input end
+Time:  31.684651, Process 5, printer output start
+Time:  32.685416, Process 5, printer output end
+Time:  32.685786, Process 5, hard drive output start
+Time:  33.106385, Process 5, hard drive output end
+Time:  33.106744, Process 5, hard drive input start
+Time:  33.527456, Process 5, hard drive input end
+Time:  33.527853, Process 5, hard drive output start
+Time:  33.628658, Process 5, hard drive output end
+Time:  33.629054, OS: Process 5 set in Exit state
+
+Time:  33.630172, System stop

@@ -1,0 +1,550 @@
+Time:   0.000000, System start
+Time:   0.000287, Begin PCB Creation
+Time:   0.000548, All processes initialized in New state
+Time:   0.000694, All processes now set in Ready state
+Time:   0.000845, OS: RR-P Strategy selects process 1 with time: 7910 mSec
+Time:   0.000963, OS: Process 1 set in Running state
+Time:   0.001042, Process 1, Run operation start
+Time:   0.031095, OS: Process 1 quantum time out
+Time:   0.031495, OS: Process 1 set in Ready state
+
+Time:   0.031886, OS: RR-P Strategy selects process 2 with time: 2450 mSec
+Time:   0.032125, OS: Process 2 set in Running state
+Time:   0.032333, Process 2, Memory management allocation action start ( 12/251/150 )
+Time:   0.032504, Process 2, Memory management allocation action end
+Time:   0.032623, Process 2, hard drive input start
+Time:   0.032852, OS: Process 2 set in Blocked state
+
+Time:   0.032954, OS: RR-P Strategy selects process 3 with time: 8270 mSec
+Time:   0.033007, OS: Process 3 set in Running state
+Time:   0.033057, Process 3, Run operation start
+Time:   0.063108, OS: Process 3 quantum time out
+Time:   0.063290, OS: Process 3 set in Ready state
+
+Time:   0.063571, OS: RR-P Strategy selects process 4 with time: 4510 mSec
+Time:   0.063757, OS: Process 4 set in Running state
+Time:   0.063945, Process 4, Run operation start
+Time:   0.094130, OS: Process 4 quantum time out
+Time:   0.094402, OS: Process 4 set in Ready state
+
+Time:   0.094512, OS: RR-P Strategy selects process 5 with time: 4520 mSec
+Time:   0.094623, OS: Process 5 set in Running state
+Time:   0.095225, Process 5, hard drive output start
+Time:   0.096007, OS: Process 5 set in Blocked state
+
+Time:   0.097165, OS: RR-P Strategy selects process 1 with time: 7880 mSec
+Time:   0.097678, OS: Process 1 set in Running state
+Time:   0.098149, Process 1, Run operation start
+Time:   0.128627, OS: Process 1 quantum time out
+Time:   0.128781, OS: Process 1 set in Ready state
+
+Time:   0.140533, OS: RR-P Strategy selects process 3 with time: 8240 mSec
+Time:   0.153756, OS: Process 3 set in Running state
+Time:   0.154306, Process 3, Run operation start
+Time:   0.184796, OS: Process 3 quantum time out
+Time:   0.185215, OS: Process 3 set in Ready state
+
+Time:   0.191850, OS: RR-P Strategy selects process 4 with time: 4480 mSec
+Time:   0.192340, OS: Process 4 set in Running state
+Time:   0.192847, Process 4, Run operation start
+Time:   0.223391, OS: Process 4 quantum time out
+Time:   0.223512, OS: Process 4 set in Ready state
+
+Time:   0.224428, OS: RR-P Strategy selects process 1 with time: 7850 mSec
+Time:   0.228076, OS: Process 1 set in Running state
+Time:   0.228578, Process 1, Run operation start
+Time:   0.253997, Process 1, Run operation end
+Time:   0.254206, Process 1, Memory management allocation action start ( 12/100/150 )
+Time:   0.260358, Process 1, Memory management allocation action end
+Time:   0.260897, Process 1, Memory management access action start ( 12/100/150 )
+Time:   0.276831, Process 1, Memory management access action end
+Time:   0.277366, Process 1, Run operation start
+Time:   0.313285, OS: Process 1 quantum time out
+Time:   0.313532, OS: Process 1 set in Ready state
+
+Time:   0.327137, OS: RR-P Strategy selects process 3 with time: 8210 mSec
+Time:   0.340439, OS: Process 3 set in Running state
+Time:   0.341034, Process 3, Run operation start
+Time:   0.351556, Process 3, Run operation end
+Time:   0.353451, Process 3, Memory management allocation action start ( 9/0/25 )
+Time:   0.353977, Process 3, Memory management allocation action end
+Time:   0.362873, Process 3, printer output start
+Time:   0.363663, OS: Process 3 set in Blocked state
+
+Time:   0.370775, OS: RR-P Strategy selects process 4 with time: 4450 mSec
+Time:   0.386353, OS: Process 4 set in Running state
+Time:   0.386872, Process 4, Run operation start
+Time:   0.426286, OS: Process 4 quantum time out
+Time:   0.426607, OS: Process 4 set in Ready state
+
+Time:   0.427568, OS: RR-P Strategy selects process 1 with time: 7820 mSec
+Time:   0.428089, OS: Process 1 set in Running state
+Time:   0.428575, Process 1, Run operation start
+Time:   0.449124, Process 1, Run operation end
+Time:   0.449310, Process 1, hard drive input start
+Time:   0.457872, OS: Process 1 set in Blocked state
+
+Time:   0.458820, OS: RR-P Strategy selects process 4 with time: 4420 mSec
+Time:   0.463026, OS: Process 4 set in Running state
+Time:   0.477532, Process 4, Run operation start
+Time:   0.508039, OS: Process 4 quantum time out
+Time:   0.508375, OS: Process 4 set in Ready state
+
+Time:   0.509408, OS: RR-P Strategy selects process 4 with time: 4390 mSec
+Time:   0.509929, OS: Process 4 set in Running state
+Time:   0.510444, Process 4, Run operation start
+Time:   0.520957, Process 4, Run operation end
+Time:   0.521098, Process 4, Run operation start
+Time:   0.546150, OS: Process 4 quantum time out
+Time:   0.546269, OS: Process 4 set in Ready state
+
+Time:   0.560593, OS: RR-P Strategy selects process 4 with time: 4360 mSec
+Time:   0.576895, OS: Process 4 set in Running state
+Time:   0.577477, Process 4, Run operation start
+Time:   0.620297, OS: Process 4 quantum time out
+Time:   0.620791, OS: Process 4 set in Ready state
+
+Time:   0.624684, OS: RR-P Strategy selects process 4 with time: 4330 mSec
+Time:   0.625215, OS: Process 4 set in Running state
+Time:   0.625738, Process 4, Run operation start
+Time:   0.636265, OS: Interrupt, Process 5
+Time:   0.636395, OS: Process 4 set in Ready state
+Time:   0.636943, Process 5, hard drive output end
+Time:   0.637408, OS: Process 5 set in Ready state
+
+Time:   0.638435, OS: RR-P Strategy selects process 4 with time: 4320 mSec
+Time:   0.638923, OS: Process 4 set in Running state
+Time:   0.639405, Process 4, Run operation start
+Time:   0.669891, Process 4, Run operation end
+Time:   0.670028, Process 4, printer output start
+Time:   0.670764, OS: Process 4 set in Blocked state
+
+Time:   0.671582, OS: RR-P Strategy selects process 5 with time: 3980 mSec
+Time:   0.672073, OS: Process 5 set in Running state
+Time:   0.672562, Process 5, printer output start
+Time:   0.673187, OS: Process 5 set in Blocked state
+
+Time:   0.674127, OS: CPU Idle
+Time:   0.820780, OS: Interrupt, Process 1
+Time:   0.821059, Process 1, hard drive input end
+Time:   0.821562, OS: Process 1 set in Ready state
+
+Time:   0.822470, OS: RR-P Strategy selects process 1 with time: 7440 mSec
+Time:   0.822930, OS: Process 1 set in Running state
+Time:   0.823399, Process 1, hard drive output start
+Time:   0.824029, OS: Process 1 set in Blocked state
+
+Time:   0.824845, OS: CPU Idle
+Time:   0.935372, OS: Interrupt, Process 2
+Time:   0.935652, Process 2, hard drive input end
+Time:   0.936187, OS: Process 2 set in Ready state
+
+Time:   0.937086, OS: RR-P Strategy selects process 2 with time: 1550 mSec
+Time:   0.937554, OS: Process 2 set in Running state
+Time:   0.938009, Process 2, Memory management access action start ( 12/251/150 )
+Time:   0.938475, Process 2, Memory management access action end
+Time:   0.938939, Process 2, Memory management access action start ( 12/251/150 )
+Time:   0.939396, Process 2, Memory management access action end
+Time:   0.939950, Process 2, Run operation start
+Time:   0.970416, OS: Process 2 quantum time out
+Time:   0.970556, OS: Process 2 set in Ready state
+
+Time:   0.974933, OS: RR-P Strategy selects process 2 with time: 1520 mSec
+Time:   0.991325, OS: Process 2 set in Running state
+Time:   0.991922, Process 2, Run operation start
+Time:   1.037622, OS: Process 2 quantum time out
+Time:   1.038034, OS: Process 2 set in Ready state
+
+Time:   1.042097, OS: RR-P Strategy selects process 2 with time: 1490 mSec
+Time:   1.042626, OS: Process 2 set in Running state
+Time:   1.043132, Process 2, Run operation start
+Time:   1.063645, Process 2, Run operation end
+Time:   1.063804, Process 2, Memory management allocation action start ( 10/50/49 )
+Time:   1.075007, Process 2, Memory management allocation action end
+Time:   1.075512, Process 2, hard drive input start
+Time:   1.088861, OS: Process 2 set in Blocked state
+
+Time:   1.089715, OS: CPU Idle
+Time:   1.380251, OS: Interrupt, Process 4
+Time:   1.380584, Process 4, printer output end
+Time:   1.381163, OS: Process 4 set in Ready state
+
+Time:   1.382170, OS: RR-P Strategy selects process 4 with time: 3590 mSec
+Time:   1.382685, OS: Process 4 set in Running state
+Time:   1.383199, Process 4, hard drive input start
+Time:   1.383889, OS: Process 4 set in Blocked state
+
+Time:   1.384724, OS: CPU Idle
+Time:   1.455266, OS: Interrupt, Process 2
+Time:   1.455567, Process 2, hard drive input end
+Time:   1.456138, OS: Process 2 set in Ready state
+
+Time:   1.457263, OS: RR-P Strategy selects process 2 with time: 1110 mSec
+Time:   1.457836, OS: Process 2 set in Running state
+Time:   1.458324, Process 2, Memory management access action start ( 10/50/20 )
+Time:   1.458797, Process 2, Memory management access action end
+Time:   1.459293, Process 2, keyboard input start
+Time:   1.459540, OS: Process 2 set in Blocked state
+
+Time:   1.459984, OS: CPU Idle
+Time:   1.470587, OS: Interrupt, Process 3
+Time:   1.477022, Process 3, printer output end
+Time:   1.484331, OS: Process 3 set in Ready state
+
+Time:   1.484450, OS: RR-P Strategy selects process 3 with time: 7100 mSec
+Time:   1.484525, OS: Process 3 set in Running state
+Time:   1.484586, Process 3, Memory management access action start ( 9/0/10 )
+Time:   1.485199, Process 3, Memory management access action end
+Time:   1.485715, Process 3, hard drive output start
+Time:   1.486399, OS: Process 3 set in Blocked state
+
+Time:   1.493148, OS: CPU Idle
+Time:   1.608162, OS: Interrupt, Process 1
+Time:   1.608440, Process 1, hard drive output end
+Time:   1.608963, OS: Process 1 set in Ready state
+
+Time:   1.609525, OS: RR-P Strategy selects process 1 with time: 6660 mSec
+Time:   1.610074, OS: Process 1 set in Running state
+Time:   1.610681, Process 1, hard drive output start
+Time:   1.611438, OS: Process 1 set in Blocked state
+
+Time:   1.612493, OS: CPU Idle
+Time:   1.683046, OS: Interrupt, Process 5
+Time:   1.683314, Process 5, printer output end
+Time:   1.683830, OS: Process 5 set in Ready state
+
+Time:   1.684758, OS: RR-P Strategy selects process 5 with time: 2980 mSec
+Time:   1.685219, OS: Process 5 set in Running state
+Time:   1.685680, Process 5, hard drive input start
+Time:   1.686323, OS: Process 5 set in Blocked state
+
+Time:   1.687261, OS: CPU Idle
+Time:   1.967785, OS: Interrupt, Process 5
+Time:   1.968065, Process 5, hard drive input end
+Time:   1.968620, OS: Process 5 set in Ready state
+
+Time:   1.969575, OS: RR-P Strategy selects process 5 with time: 2700 mSec
+Time:   1.970066, OS: Process 5 set in Running state
+Time:   1.970557, Process 5, printer output start
+Time:   1.971265, OS: Process 5 set in Blocked state
+
+Time:   1.972133, OS: CPU Idle
+Time:   2.152685, OS: Interrupt, Process 5
+Time:   2.152956, Process 5, printer output end
+Time:   2.153447, OS: Process 5 set in Ready state
+
+Time:   2.154355, OS: RR-P Strategy selects process 5 with time: 2520 mSec
+Time:   2.154813, OS: Process 5 set in Running state
+Time:   2.155276, Process 5, hard drive input start
+Time:   2.155860, OS: Process 5 set in Blocked state
+
+Time:   2.156677, OS: CPU Idle
+Time:   2.167157, OS: Interrupt, Process 4
+Time:   2.167237, Process 4, hard drive input end
+Time:   2.167673, OS: Process 4 set in Ready state
+
+Time:   2.168572, OS: RR-P Strategy selects process 4 with time: 2810 mSec
+Time:   2.169037, OS: Process 4 set in Running state
+Time:   2.169494, Process 4, hard drive output start
+Time:   2.170118, OS: Process 4 set in Blocked state
+
+Time:   2.170936, OS: CPU Idle
+Time:   2.271468, OS: Interrupt, Process 1
+Time:   2.271755, Process 1, hard drive output end
+Time:   2.272290, OS: Process 1 set in Ready state
+
+Time:   2.273242, OS: RR-P Strategy selects process 1 with time: 6000 mSec
+Time:   2.273730, OS: Process 1 set in Running state
+Time:   2.274219, Process 1, printer output start
+Time:   2.274877, OS: Process 1 set in Blocked state
+
+Time:   2.275658, OS: CPU Idle
+Time:   2.396159, OS: Interrupt, Process 3
+Time:   2.396479, Process 3, hard drive output end
+Time:   2.397004, OS: Process 3 set in Ready state
+
+Time:   2.397941, OS: RR-P Strategy selects process 3 with time: 6200 mSec
+Time:   2.398406, OS: Process 3 set in Running state
+Time:   2.398877, Process 3, printer output start
+Time:   2.399615, OS: Process 3 set in Blocked state
+
+Time:   2.400070, OS: CPU Idle
+Time:   2.460600, OS: Interrupt, Process 2
+Time:   2.460873, Process 2, keyboard input end
+Time:   2.461409, OS: Process 2 set in Ready state
+
+Time:   2.462474, OS: Interrupt, Process 5
+Time:   2.462527, Process 5, hard drive input end
+Time:   2.462527, OS: Process 5 set in Ready state
+
+Time:   2.466816, OS: RR-P Strategy selects process 2 with time: 110 mSec
+Time:   2.467370, OS: Process 2 set in Running state
+Time:   2.467846, Process 2, Run operation start
+Time:   2.498312, OS: Process 2 quantum time out
+Time:   2.498645, OS: Process 2 set in Ready state
+
+Time:   2.500458, OS: RR-P Strategy selects process 5 with time: 2220 mSec
+Time:   2.500517, OS: Process 5 set in Running state
+Time:   2.500999, Process 5, keyboard input start
+Time:   2.501634, OS: Process 5 set in Blocked state
+
+Time:   2.502510, OS: RR-P Strategy selects process 2 with time: 80 mSec
+Time:   2.502570, OS: Process 2 set in Running state
+Time:   2.503079, Process 2, Run operation start
+Time:   2.533577, OS: Process 2 quantum time out
+Time:   2.533912, OS: Process 2 set in Ready state
+
+Time:   2.541033, OS: RR-P Strategy selects process 2 with time: 50 mSec
+Time:   2.541559, OS: Process 2 set in Running state
+Time:   2.542051, Process 2, Run operation start
+Time:   2.572662, OS: Process 2 quantum time out
+Time:   2.572984, OS: Process 2 set in Ready state
+
+Time:   2.574957, OS: RR-P Strategy selects process 2 with time: 20 mSec
+Time:   2.575027, OS: Process 2 set in Running state
+Time:   2.575546, Process 2, Run operation start
+Time:   2.596048, Process 2, Run operation end
+Time:   2.601856, OS: Process 2 set in Exit state
+
+Time:   2.608993, OS: CPU Idle
+Time:   2.659619, OS: Interrupt, Process 4
+Time:   2.659911, Process 4, hard drive output end
+Time:   2.660529, OS: Process 4 set in Ready state
+
+Time:   2.661443, OS: RR-P Strategy selects process 4 with time: 2330 mSec
+Time:   2.661904, OS: Process 4 set in Running state
+Time:   2.662360, Process 4, keyboard input start
+Time:   2.662996, OS: Process 4 set in Blocked state
+
+Time:   2.663805, OS: CPU Idle
+Time:   2.786959, OS: Interrupt, Process 5
+Time:   2.787209, Process 5, keyboard input end
+Time:   2.787708, OS: Process 5 set in Ready state
+
+Time:   2.788596, OS: RR-P Strategy selects process 5 with time: 1940 mSec
+Time:   2.789048, OS: Process 5 set in Running state
+Time:   2.789497, Process 5, printer output start
+Time:   2.790085, OS: Process 5 set in Blocked state
+
+Time:   2.790889, OS: CPU Idle
+Time:   3.081398, OS: Interrupt, Process 1
+Time:   3.081668, Process 1, printer output end
+Time:   3.082176, OS: Process 1 set in Ready state
+
+Time:   3.083093, OS: RR-P Strategy selects process 1 with time: 5200 mSec
+Time:   3.083551, OS: Process 1 set in Running state
+Time:   3.084016, Process 1, keyboard input start
+Time:   3.084720, OS: Process 1 set in Blocked state
+
+Time:   3.085676, OS: CPU Idle
+Time:   3.506256, OS: Interrupt, Process 3
+Time:   3.506517, Process 3, printer output end
+Time:   3.507005, OS: Process 3 set in Ready state
+
+Time:   3.507900, OS: RR-P Strategy selects process 3 with time: 5100 mSec
+Time:   3.508357, OS: Process 3 set in Running state
+Time:   3.508802, Process 3, Run operation start
+Time:   3.539270, OS: Process 3 quantum time out
+Time:   3.539580, OS: Process 3 set in Ready state
+
+Time:   3.540587, OS: RR-P Strategy selects process 3 with time: 5070 mSec
+Time:   3.541075, OS: Process 3 set in Running state
+Time:   3.541549, Process 3, Run operation start
+Time:   3.572032, OS: Process 3 quantum time out
+Time:   3.572344, OS: Process 3 set in Ready state
+
+Time:   3.574993, OS: RR-P Strategy selects process 3 with time: 5040 mSec
+Time:   3.575469, OS: Process 3 set in Running state
+Time:   3.575942, Process 3, Run operation start
+Time:   3.606417, OS: Process 3 quantum time out
+Time:   3.606536, OS: Process 3 set in Ready state
+
+Time:   3.608707, OS: RR-P Strategy selects process 3 with time: 5010 mSec
+Time:   3.609198, OS: Process 3 set in Running state
+Time:   3.609696, Process 3, Run operation start
+Time:   3.640187, Process 3, Run operation end
+Time:   3.640561, Process 3, Run operation start
+Time:   3.640626, OS: Process 3 quantum time out
+Time:   3.641195, OS: Process 3 set in Ready state
+
+Time:   3.642214, OS: RR-P Strategy selects process 3 with time: 4980 mSec
+Time:   3.642936, OS: Process 3 set in Running state
+Time:   3.642995, Process 3, Run operation start
+Time:   3.663611, OS: Interrupt, Process 4
+Time:   3.663711, OS: Process 3 set in Ready state
+Time:   3.671523, Process 4, keyboard input end
+Time:   3.672005, OS: Process 4 set in Ready state
+
+Time:   3.678744, OS: RR-P Strategy selects process 3 with time: 4960 mSec
+Time:   3.694566, OS: Process 3 set in Running state
+Time:   3.695081, Process 3, Run operation start
+Time:   3.740997, OS: Process 3 quantum time out
+Time:   3.741531, OS: Process 3 set in Ready state
+
+Time:   3.743500, OS: RR-P Strategy selects process 4 with time: 1330 mSec
+Time:   3.744072, OS: Process 4 set in Running state
+Time:   3.744640, Process 4, Run operation start
+Time:   3.775218, OS: Process 4 quantum time out
+Time:   3.775566, OS: Process 4 set in Ready state
+
+Time:   3.776153, OS: RR-P Strategy selects process 3 with time: 4930 mSec
+Time:   3.776620, OS: Process 3 set in Running state
+Time:   3.777127, Process 3, Run operation start
+Time:   3.797620, OS: Interrupt, Process 5
+Time:   3.797756, OS: Process 3 set in Ready state
+Time:   3.798319, Process 5, printer output end
+Time:   3.804150, OS: Process 5 set in Ready state
+
+Time:   3.812844, OS: RR-P Strategy selects process 4 with time: 1300 mSec
+Time:   3.813424, OS: Process 4 set in Running state
+Time:   3.814040, Process 4, Run operation start
+Time:   3.851699, OS: Process 4 quantum time out
+Time:   3.852231, OS: Process 4 set in Ready state
+
+Time:   3.860528, OS: RR-P Strategy selects process 3 with time: 4910 mSec
+Time:   3.861076, OS: Process 3 set in Running state
+Time:   3.865292, Process 3, Run operation start
+Time:   3.886338, Process 3, Run operation end
+Time:   3.886514, Process 3, keyboard input start
+Time:   3.889883, OS: Process 3 set in Blocked state
+
+Time:   3.893408, OS: RR-P Strategy selects process 5 with time: 940 mSec
+Time:   3.897938, OS: Process 5 set in Running state
+Time:   3.912509, Process 5, hard drive output start
+Time:   3.913297, OS: Process 5 set in Blocked state
+
+Time:   3.929687, OS: RR-P Strategy selects process 4 with time: 1270 mSec
+Time:   3.945522, OS: Process 4 set in Running state
+Time:   3.946013, Process 4, Run operation start
+Time:   3.991891, OS: Process 4 quantum time out
+Time:   3.992298, OS: Process 4 set in Ready state
+
+Time:   3.993277, OS: RR-P Strategy selects process 4 with time: 1240 mSec
+Time:   3.993744, OS: Process 4 set in Running state
+Time:   3.994206, Process 4, Run operation start
+Time:   4.024668, OS: Process 4 quantum time out
+Time:   4.025009, OS: Process 4 set in Ready state
+
+Time:   4.025938, OS: RR-P Strategy selects process 4 with time: 1210 mSec
+Time:   4.026392, OS: Process 4 set in Running state
+Time:   4.026845, Process 4, Run operation start
+Time:   4.037302, Process 4, Run operation end
+Time:   4.037812, Process 4, hard drive output start
+Time:   4.038536, OS: Process 4 set in Blocked state
+
+Time:   4.047463, OS: CPU Idle
+Time:   4.334639, OS: Interrupt, Process 5
+Time:   4.334890, Process 5, hard drive output end
+Time:   4.335393, OS: Process 5 set in Ready state
+
+Time:   4.336311, OS: RR-P Strategy selects process 5 with time: 520 mSec
+Time:   4.336776, OS: Process 5 set in Running state
+Time:   4.337239, Process 5, hard drive input start
+Time:   4.337820, OS: Process 5 set in Blocked state
+
+Time:   4.338689, OS: Interrupt, Process 4
+Time:   4.339128, Process 4, hard drive output end
+Time:   4.339652, OS: Process 4 set in Ready state
+
+Time:   4.340507, OS: RR-P Strategy selects process 4 with time: 900 mSec
+Time:   4.340942, OS: Process 4 set in Running state
+Time:   4.341380, Process 4, printer output start
+Time:   4.341938, OS: Process 4 set in Blocked state
+
+Time:   4.342700, OS: CPU Idle
+Time:   4.523196, OS: Interrupt, Process 4
+Time:   4.523465, Process 4, printer output end
+Time:   4.524016, OS: Process 4 set in Ready state
+
+Time:   4.524958, OS: RR-P Strategy selects process 4 with time: 720 mSec
+Time:   4.525447, OS: Process 4 set in Running state
+Time:   4.525932, Process 4, hard drive input start
+Time:   4.526573, OS: Process 4 set in Blocked state
+
+Time:   4.527448, OS: CPU Idle
+Time:   4.757994, OS: Interrupt, Process 5
+Time:   4.758262, Process 5, hard drive input end
+Time:   4.758772, OS: Process 5 set in Ready state
+
+Time:   4.759657, OS: RR-P Strategy selects process 5 with time: 100 mSec
+Time:   4.760109, OS: Process 5 set in Running state
+Time:   4.760560, Process 5, hard drive output start
+Time:   4.761170, OS: Process 5 set in Blocked state
+
+Time:   4.761958, OS: CPU Idle
+Time:   4.862430, OS: Interrupt, Process 5
+Time:   4.862723, Process 5, hard drive output end
+Time:   4.863248, OS: Process 5 set in Ready state
+
+Time:   4.864236, OS: RR-P Strategy selects process 5 with time: 0 mSec
+Time:   4.867578, OS: Process 5 set in Running state
+Time:   4.868050, OS: Process 5 set in Exit state
+
+Time:   4.868950, OS: CPU Idle
+Time:   5.249442, OS: Interrupt, Process 4
+Time:   5.249700, Process 4, hard drive input end
+Time:   5.250187, OS: Process 4 set in Ready state
+
+Time:   5.251107, OS: RR-P Strategy selects process 4 with time: 0 mSec
+Time:   5.251559, OS: Process 4 set in Running state
+Time:   5.252033, OS: Process 4 set in Exit state
+
+Time:   5.252980, OS: CPU Idle
+Time:   5.293443, OS: Interrupt, Process 1
+Time:   5.293742, Process 1, keyboard input end
+Time:   5.294241, OS: Process 1 set in Ready state
+
+Time:   5.295129, OS: RR-P Strategy selects process 1 with time: 3000 mSec
+Time:   5.295564, OS: Process 1 set in Running state
+Time:   5.296003, Process 1, keyboard input start
+Time:   5.296551, OS: Process 1 set in Blocked state
+
+Time:   5.297377, OS: CPU Idle
+Time:   5.897941, OS: Interrupt, Process 3
+Time:   5.898243, Process 3, keyboard input end
+Time:   5.898777, OS: Process 3 set in Ready state
+
+Time:   5.899711, OS: RR-P Strategy selects process 3 with time: 2900 mSec
+Time:   5.900221, OS: Process 3 set in Running state
+Time:   5.900705, Process 3, keyboard input start
+Time:   5.901295, OS: Process 3 set in Blocked state
+
+Time:   5.902040, OS: CPU Idle
+Time:   7.302568, OS: Interrupt, Process 1
+Time:   7.302942, Process 1, keyboard input end
+Time:   7.303537, OS: Process 1 set in Ready state
+
+Time:   7.304565, OS: RR-P Strategy selects process 1 with time: 1000 mSec
+Time:   7.305193, OS: Process 1 set in Running state
+Time:   7.305773, Process 1, keyboard input start
+Time:   7.306425, OS: Process 1 set in Blocked state
+
+Time:   7.307243, OS: CPU Idle
+Time:   7.907800, OS: Interrupt, Process 3
+Time:   7.908072, Process 3, keyboard input end
+Time:   7.908582, OS: Process 3 set in Ready state
+
+Time:   7.909086, OS: RR-P Strategy selects process 3 with time: 900 mSec
+Time:   7.909546, OS: Process 3 set in Running state
+Time:   7.910010, Process 3, hard drive input start
+Time:   7.910574, OS: Process 3 set in Blocked state
+
+Time:   7.911001, OS: CPU Idle
+Time:   8.311510, OS: Interrupt, Process 1
+Time:   8.311808, Process 1, keyboard input end
+Time:   8.312381, OS: Process 1 set in Ready state
+
+Time:   8.313362, OS: RR-P Strategy selects process 1 with time: 0 mSec
+Time:   8.313842, OS: Process 1 set in Running state
+Time:   8.314346, OS: Process 1 set in Exit state
+
+Time:   8.315345, OS: CPU Idle
+Time:   8.818623, OS: Interrupt, Process 3
+Time:   8.818909, Process 3, hard drive input end
+Time:   8.819412, OS: Process 3 set in Ready state
+
+Time:   8.819887, OS: RR-P Strategy selects process 3 with time: 0 mSec
+Time:   8.820375, OS: Process 3 set in Running state
+Time:   8.820903, OS: Process 3 set in Exit state
+
+Time:   8.821421, System stop

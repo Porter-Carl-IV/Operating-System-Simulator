@@ -1,0 +1,129 @@
+Time:   0.000000, System start
+Time:   0.000685, Begin PCB Creation
+Time:   0.001825, All processes initialized in New state
+Time:   0.002436, All processes now set in Ready state
+Time:   0.003065, OS: SJF-N Strategy selects process 2 with time: 2450 mSec
+Time:   0.003642, OS: Process 2 set in Running state
+Time:   0.004228, Process 2, Memory management allocation action start ( 12/251/150 )
+Time:   0.004816, Process 2, Memory management allocation action end
+Time:   0.005387, Process 2, hard drive input start
+Time:   0.906221, Process 2, hard drive input end
+Time:   0.906557, Process 2, Memory management access action start ( 12/251/150 )
+Time:   0.907098, Process 2, Memory management access action end
+Time:   0.907653, Process 2, Memory management access action start ( 12/251/150 )
+Time:   0.908196, Process 2, Memory management access action end
+Time:   0.908707: Process 2, Run operation start
+Time:   0.989220: Process 2, Run operation end
+Time:   0.989604, Process 2, Memory management allocation action start ( 10/50/49 )
+Time:   0.990126, Process 2, Memory management allocation action end
+Time:   0.990662, Process 2, hard drive input start
+Time:   1.351458, Process 2, hard drive input end
+Time:   1.351803, Process 2, Memory management access action start ( 10/50/20 )
+Time:   1.352388, Process 2, Memory management access action end
+Time:   1.352886, Process 2, keyboard input start
+Time:   2.353508, Process 2, keyboard input end
+Time:   2.353872: Process 2, Run operation start
+Time:   2.464464: Process 2, Run operation end
+Time:   2.464881, OS: Process 2 set in Exit state
+
+Time:   2.466057, OS: SJF-N Strategy selects process 4 with time: 4510 mSec
+Time:   2.466642, OS: Process 4 set in Running state
+Time:   2.467233: Process 4, Run operation start
+Time:   2.597819: Process 4, Run operation end
+Time:   2.598196: Process 4, Run operation start
+Time:   2.688773: Process 4, Run operation end
+Time:   2.689180, Process 4, printer output start
+Time:   3.389946, Process 4, printer output end
+Time:   3.390301, Process 4, hard drive input start
+Time:   4.171046, Process 4, hard drive input end
+Time:   4.171422, Process 4, hard drive output start
+Time:   4.652161, Process 4, hard drive output end
+Time:   4.652526, Process 4, keyboard input start
+Time:   5.653150, Process 4, keyboard input end
+Time:   5.653522: Process 4, Run operation start
+Time:   5.784123: Process 4, Run operation end
+Time:   5.784525, Process 4, hard drive output start
+Time:   6.085209, Process 4, hard drive output end
+Time:   6.085565, Process 4, printer output start
+Time:   6.266255, Process 4, printer output end
+Time:   6.266623, Process 4, hard drive input start
+Time:   6.987341, Process 4, hard drive input end
+Time:   6.987695, OS: Process 4 set in Exit state
+
+Time:   6.988721, OS: SJF-N Strategy selects process 5 with time: 4520 mSec
+Time:   6.989265, OS: Process 5 set in Running state
+Time:   6.989814, Process 5, hard drive output start
+Time:   7.530495, Process 5, hard drive output end
+Time:   7.530837, Process 5, printer output start
+Time:   8.531521, Process 5, printer output end
+Time:   8.531837, Process 5, hard drive input start
+Time:   8.812551, Process 5, hard drive input end
+Time:   8.812898, Process 5, printer output start
+Time:   8.993586, Process 5, printer output end
+Time:   8.993930, Process 5, hard drive input start
+Time:   9.294727, Process 5, hard drive input end
+Time:   9.295136, Process 5, keyboard input start
+Time:   9.575920, Process 5, keyboard input end
+Time:   9.576262, Process 5, printer output start
+Time:  10.576918, Process 5, printer output end
+Time:  10.577259, Process 5, hard drive output start
+Time:  10.997932, Process 5, hard drive output end
+Time:  10.998244, Process 5, hard drive input start
+Time:  11.418957, Process 5, hard drive input end
+Time:  11.419306, Process 5, hard drive output start
+Time:  11.519953, Process 5, hard drive output end
+Time:  11.520403, OS: Process 5 set in Exit state
+
+Time:  11.521628, OS: SJF-N Strategy selects process 1 with time: 7910 mSec
+Time:  11.522226, OS: Process 1 set in Running state
+Time:  11.522810: Process 1, Run operation start
+Time:  11.593365: Process 1, Run operation end
+Time:  11.593790, Process 1, Memory management allocation action start ( 12/100/150 )
+Time:  11.594373, Process 1, Memory management allocation action end
+Time:  11.594942, Process 1, Memory management access action start ( 12/100/150 )
+Time:  11.595497, Process 1, Memory management access action end
+Time:  11.596010: Process 1, Run operation start
+Time:  11.636528: Process 1, Run operation end
+Time:  11.636934, Process 1, hard drive input start
+Time:  11.997623, Process 1, hard drive input end
+Time:  11.997966, Process 1, hard drive output start
+Time:  12.778684, Process 1, hard drive output end
+Time:  12.779007, Process 1, hard drive output start
+Time:  13.439669, Process 1, hard drive output end
+Time:  13.440026, Process 1, printer output start
+Time:  14.240742, Process 1, printer output end
+Time:  14.241086, Process 1, keyboard input start
+Time:  16.441765, Process 1, keyboard input end
+Time:  16.442142, Process 1, keyboard input start
+Time:  18.442796, Process 1, keyboard input end
+Time:  18.443151, Process 1, keyboard input start
+Time:  19.443909, Process 1, keyboard input end
+Time:  19.444259, OS: Process 1 set in Exit state
+
+Time:  19.445271, OS: SJF-N Strategy selects process 3 with time: 8270 mSec
+Time:  19.445784, OS: Process 3 set in Running state
+Time:  19.446308: Process 3, Run operation start
+Time:  19.516796: Process 3, Run operation end
+Time:  19.517222, Process 3, Memory management allocation action start ( 9/0/25 )
+Time:  19.517740, Process 3, Memory management allocation action end
+Time:  19.518198, Process 3, printer output start
+Time:  20.618899, Process 3, printer output end
+Time:  20.619277, Process 3, Memory management access action start ( 9/0/10 )
+Time:  20.619798, Process 3, Memory management access action end
+Time:  20.620299, Process 3, hard drive output start
+Time:  21.521239, Process 3, hard drive output end
+Time:  21.521626, Process 3, printer output start
+Time:  22.622448, Process 3, printer output end
+Time:  22.622781: Process 3, Run operation start
+Time:  22.743309: Process 3, Run operation end
+Time:  22.743712: Process 3, Run operation start
+Time:  22.824381: Process 3, Run operation end
+Time:  22.824775, Process 3, keyboard input start
+Time:  24.825569, Process 3, keyboard input end
+Time:  24.825938, Process 3, keyboard input start
+Time:  26.826569, Process 3, keyboard input end
+Time:  26.826864, Process 3, hard drive input start
+Time:  27.727521, Process 3, hard drive input end
+Time:  27.727892, OS: Process 3 set in Exit state
+
+Time:  27.728512, System stop

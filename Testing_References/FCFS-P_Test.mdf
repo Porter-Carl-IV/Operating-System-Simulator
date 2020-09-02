@@ -1,0 +1,16 @@
+Start Program Meta-Data Code:
+S(start)0; A(start)0; P(run)7; M(allocate)12100150;
+M(access)12100160; P(run)4; I(hard drive)18; O(hard drive)39;
+O(hard drive)33; O(printer)40; I(keyboard)110; I(keyboard)100;
+I(keyboard)50; A(end)0; A(start)0; M(allocate)12100150; I(hard drive)45;
+M(access)12100150; M(access)12100150; P(run)8; M(allocate)10050049; I(hard drive)18;
+M(access)10050020; I(keyboard)50; P(run)11; A(end)0; A(start)0; P(run)7;
+M(allocate)09275025; O(printer)55; M(access)09275010; O(hard drive)45;
+O(printer)55; P(run)12; P(run)8; I(keyboard)100; I(keyboard)100;
+I(hard drive)45; A(end)0; A(start)0; P(run)13; P(run)9; O(printer)35;
+I(hard drive)39; O(hard drive)24; I(keyboard)50; P(run)13;
+O(hard drive)15; O(printer)9; I(hard drive)36; A(end)0; A(start)0;
+O(hard drive)27; O(printer)50; I(hard drive)14; O(printer)9; I(hard drive)15;
+I(keyboard)14; O(printer)50; O(hard drive)21; I(hard drive)21;
+O(hard drive)5; A(end)0; S(end)0.
+End Program Peta-Data Code.
