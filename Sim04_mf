@@ -1,0 +1,25 @@
+CC = gcc
+DEBUG = -g
+CFLAGS = -Wall -std=c99 -pedantic -c $(DEBUG)
+LFLAGS = -Wall -std=c99 -pedantic $(DEBUG)
+
+Sim04 : Sim04.o FileUpload.o Utilities.o System.o simtimer.o
+	$(CC) $(LFLAGS) Sim04.o FileUpload.o Utilities.o System.o simtimer.o -o Sim04 -lpthread
+
+Sim04.o : Sim04.c Sim04.h
+	$(CC) $(CFLAGS) Sim04.c
+
+Utilities.o : Utilities.c Utilities.h
+	$(CC) $(CFLAGS) Utilities.c
+
+FileUpload.o : FileUpload.c FileUpload.h
+	$(CC) $(CFLAGS) FileUpload.c
+
+System.o : System.c System.h
+	$(CC) $(CFLAGS) System.c
+
+simtimer.o : simtimer.c simtimer.h
+	$(CC) $(CFLAGS) simtimer.c
+
+clean:
+	\rm *.o Sim04
